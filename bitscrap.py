@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 import smtplib
-import pandas as pd
+#import pandas as pd
 
 # Create a dictionary
 d = {'key':'value'}
